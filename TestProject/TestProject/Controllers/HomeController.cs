@@ -14,9 +14,7 @@ namespace TestProject.Controllers
             return View();
         }
         //modified done at offline
-        public ActionResult Update()
-        {
-            return View();
-        }
+        
+        
     }
 }
